@@ -15,8 +15,9 @@ Emphasis on offers and multiple services
 No focused hero call-to-action for users to enter their location
 Visual hierarchy is scattered
 ## OUTPUT:
+# Orginal Swiggy landing Page
 ![Image](https://github.com/user-attachments/assets/95cdffa5-eab3-4fa0-bf9f-351191ed2115)
-
+# After Redesigned swiggy landing page
 ![Image](https://github.com/user-attachments/assets/915fca74-58a7-43a4-bfc3-166764c71694)
 
 
